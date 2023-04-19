@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hello,%20Here!&color=FFC&fontSize=50&desc=Yujin's%20Github%20repository&fontAlign=63&descAlign=32&descAlignY=50)
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hello,%20Here👋&color=FFC&fontSize=50&desc=Yujin's%20Github%20repository&fontAlign=67&descAlign=32&descAlignY=50)
 </div>
 <!--
 **lyj05068/lyj05068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
