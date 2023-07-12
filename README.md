@@ -1,7 +1,7 @@
 ## Yujin Lee
 <div style="display:flex; flex-direction:row;">
   
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hello,%20Here👋&color=FFC&fontSize=30&desc=Yujin's%20Github%20repository&fontAlign=67&descAlign=32&descAlignY=50)
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hello,%20Here👋&color=FFC&fontSize=30&desc=Yujin's%20Github%20repository&fontAlign=67&descAlign=32&descAlignY=30)
   
 </div><br>
 
