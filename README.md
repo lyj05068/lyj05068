@@ -12,7 +12,7 @@
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
   <a href="https://www.instagram.com/2u_j1n/">
-    <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
    <a href="mailto:lyj05068@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
