@@ -8,7 +8,7 @@
 </div><br>
 
 <div align=center>
-	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyj05068&count_bg=%23FFA0A6&title_bg=%23292828&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyj05068&count_bg=%23FFA0A6&title_bg=%23292828&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)]		(https://hits.seeyoufarm.com)
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" />
 </div>
 <div align=center>
